@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranveer jangir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
 
 - 🌱 I’m currently learning **Full Stack Web-Developer**
 
@@ -10,7 +12,7 @@
 - 📫 How to reach me **ranveerjangir384@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
 
 
 <p align="left">
