@@ -10,6 +10,9 @@
 - 📫 How to reach me **ranveerjangir384@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
+
 <p align="left">
 <a href="https://linkedin.com/in/ranveer jangir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranveer jangir" height="30" width="40" /></a>
 <a href="https://instagram.com/jangir.ranveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jangir.ranveer" height="30" width="40" /></a>
